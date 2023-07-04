@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T10:37:59.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YRe9uC6SToiruurCBFdK" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T10:40:07.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tImv3O6QLi8X5g9tpah8" version="21.5.2" type="github">
   <diagram name="Page-1" id="iqwsaydpgA9WAFFq2xoP">
     <mxGraphModel dx="1570" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2700" width="225" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="wz6yS6fhJftiReLVAl-l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wz6yS6fhJftiReLVAl-l-1" target="wz6yS6fhJftiReLVAl-l-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -207,7 +210,7 @@
           <mxGeometry x="220" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-14" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2290" width="120" height="700" as="geometry" />
+          <mxGeometry x="160" y="2290" width="120" height="930" as="geometry" />
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9JlRZIhgluz2ThL1PUU-15" target="G9JlRZIhgluz2ThL1PUU-17">
           <mxGeometry relative="1" as="geometry" />
@@ -296,7 +299,7 @@
           <mxGeometry x="20" y="2200" width="120" height="490" as="geometry" />
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-43" value="回测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2700" width="120" height="290" as="geometry" />
+          <mxGeometry x="20" y="2700" width="120" height="330" as="geometry" />
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9JlRZIhgluz2ThL1PUU-44" target="G9JlRZIhgluz2ThL1PUU-48">
           <mxGeometry relative="1" as="geometry" />
@@ -342,10 +345,10 @@
         <mxCell id="G9JlRZIhgluz2ThL1PUU-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9JlRZIhgluz2ThL1PUU-86" target="G9JlRZIhgluz2ThL1PUU-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9JlRZIhgluz2ThL1PUU-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="2700" width="225" height="330" as="geometry" />
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9JlRZIhgluz2ThL1PUU-87" target="G9JlRZIhgluz2ThL1PUU-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9JlRZIhgluz2ThL1PUU-87" value="投研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-87" value="基于feast管理的，用于投研因子资产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="300" y="3070" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9JlRZIhgluz2ThL1PUU-89" target="G9JlRZIhgluz2ThL1PUU-90">
@@ -359,6 +362,15 @@
         </mxCell>
         <mxCell id="G9JlRZIhgluz2ThL1PUU-90" value="operator4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="2560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-93" value="operator4 根据舆情信息生成因子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2940" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-94" value="投研" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9JlRZIhgluz2ThL1PUU-96" value="投研" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3045" width="120" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
